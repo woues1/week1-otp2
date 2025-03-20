@@ -35,7 +35,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>shoppingcartapp</mainClass> <!-- Correct main class -->
+                            <mainClass>org.example.shoppingcartapp</mainClass> <!-- Correct main class -->
                         </manifest>
                     </archive>
                 </configuration>
